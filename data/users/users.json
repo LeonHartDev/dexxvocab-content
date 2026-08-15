@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2026-08-15T12:26:13.036Z",
+  "users": [
+    {
+      "id": "u_owner",
+      "username": "DexxDev",
+      "keyHash": "ba2dcc0d1a9b1714337fb385212608133ab6305288973a590dd78c6768297657",
+      "role": "owner",
+      "verified": true,
+      "canCreatePrompt": true,
+      "canCreateUsers": true,
+      "createdAt": "2026-08-15T12:26:13.036Z",
+      "updatedAt": "2026-08-15T12:26:13.036Z"
+    }
+  ]
+}
