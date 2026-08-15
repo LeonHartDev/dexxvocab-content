@@ -1,4 +1,23 @@
 {
-  "updatedAt": "2026-08-15T12:26:32.205Z",
-  "prompts": []
+  "updatedAt": "2026-08-15T12:28:08.740Z",
+  "prompts": [
+    {
+      "id": "p_msucqcse25356c63",
+      "title": "Temp verification prompt",
+      "supportedAi": [
+        "Grok"
+      ],
+      "promptType": "file",
+      "content": null,
+      "fileName": "notes.md",
+      "filePath": "prompts/grok/p_msucqcse25356c63/notes.md",
+      "bannerPath": "prompts/grok/p_msucqcse25356c63/banner.jpg",
+      "category": "grok",
+      "creatorId": "u_owner",
+      "creatorUsername": "DexxDev",
+      "creatorVerified": true,
+      "createdAt": "2026-08-15T12:28:05.822Z",
+      "updatedAt": "2026-08-15T12:28:05.822Z"
+    }
+  ]
 }
