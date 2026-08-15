@@ -1,0 +1,16 @@
+{
+  "id": "p_msuco2osc3a1f333",
+  "title": "Cold-start reasoning",
+  "supportedAi": [
+    "ChatGPT",
+    "Claude"
+  ],
+  "promptType": "text",
+  "fileName": null,
+  "filePath": "prompts/combinations/chatgpt-claude/p_msuco2osc3a1f333/prompt.txt",
+  "banner": "prompts/combinations/chatgpt-claude/p_msuco2osc3a1f333/banner.jpg",
+  "creator": "DexxDev",
+  "creatorVerified": true,
+  "createdAt": "2026-08-15T12:26:19.421Z",
+  "updatedAt": "2026-08-15T12:26:19.421Z"
+}
