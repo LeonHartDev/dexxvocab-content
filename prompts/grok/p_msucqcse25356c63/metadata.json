@@ -1,0 +1,15 @@
+{
+  "id": "p_msucqcse25356c63",
+  "title": "Temp verification prompt",
+  "supportedAi": [
+    "Grok"
+  ],
+  "promptType": "file",
+  "fileName": "notes.md",
+  "filePath": "prompts/grok/p_msucqcse25356c63/notes.md",
+  "banner": "prompts/grok/p_msucqcse25356c63/banner.jpg",
+  "creator": "DexxDev",
+  "creatorVerified": true,
+  "createdAt": "2026-08-15T12:28:05.822Z",
+  "updatedAt": "2026-08-15T12:28:05.822Z"
+}
