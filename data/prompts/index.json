@@ -1,24 +1,4 @@
 {
-  "updatedAt": "2026-08-15T12:26:22.640Z",
-  "prompts": [
-    {
-      "id": "p_msuco2osc3a1f333",
-      "title": "Cold-start reasoning",
-      "supportedAi": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "promptType": "text",
-      "content": null,
-      "fileName": null,
-      "filePath": "prompts/combinations/chatgpt-claude/p_msuco2osc3a1f333/prompt.txt",
-      "bannerPath": "prompts/combinations/chatgpt-claude/p_msuco2osc3a1f333/banner.jpg",
-      "category": "combinations/chatgpt-claude/p_msuco2osc3a1f333",
-      "creatorId": "migrated",
-      "creatorUsername": "DexxDev",
-      "creatorVerified": true,
-      "createdAt": "2026-08-15T12:26:19.421Z",
-      "updatedAt": "2026-08-15T12:26:19.421Z"
-    }
-  ]
+  "updatedAt": "2026-08-15T12:26:32.205Z",
+  "prompts": []
 }
