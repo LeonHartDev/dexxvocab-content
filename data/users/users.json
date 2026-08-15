@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-15T12:26:31.061Z",
+  "updatedAt": "2026-08-15T12:28:25.988Z",
   "users": [
+    {
+      "id": "u_msucqsck943ea1af",
+      "username": "TesterB",
+      "keyHash": "14080651285d6fdbc18381673f1e0931ab0203af4f97578fc1bd76dcd0217285",
+      "role": "user",
+      "verified": true,
+      "canCreatePrompt": false,
+      "canCreateUsers": false,
+      "createdAt": "2026-08-15T12:28:25.988Z",
+      "updatedAt": "2026-08-15T12:28:25.988Z"
+    },
     {
       "id": "u_msucobo56ee328a6",
       "username": "CreatorA",
